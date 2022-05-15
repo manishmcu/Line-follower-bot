@@ -8,6 +8,7 @@ This bot will follow a line of different color(black) with respect to ground. Us
   >
 </p>
 
+### Coding
 ```
 /*-------definning Inputs------*/
 int LS = 2;      // left sensor
